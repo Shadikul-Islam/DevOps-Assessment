@@ -9,7 +9,7 @@
 
 ## <a name="01">Introduction</a>
 
-In today's fast-paced e-commerce world, the need for efficient and scalable solutions is paramount. This will focus on designing an e-commerce architecture using Amazon Web Services (AWS) to replace an outdated system. The goal is to improve efficiency, performance, and customer satisfaction. We'll also estimate the costs of running this architecture to accommodate traffic of 20,000 to 30,000 requests per second. By leveraging AWS services, we aim to create a scalable, secure, and cost-effective solution that aligns with the demands of modern e-commerce. This architecture provides a practical understanding of cloud architecture and cost estimation in the context of real-world business challenges.
+In today's fast-paced e-commerce world, the need for efficient and scalable solutions is paramount. This will focus on designing an e-commerce architecture using Amazon Web Services (AWS) to replace an outdated system. The goal is to improve efficiency, performance, and customer satisfaction. We'll also estimate the costs of running this architecture to accommodate traffic of 15,000 requests per second. By leveraging AWS services, we aim to create a scalable, secure, and cost-effective solution that aligns with the demands of modern e-commerce. This architecture provides a practical understanding of cloud architecture and cost estimation in the context of real-world business challenges.
 
 In this document, I will elucidate the architectural design utilizing AWS services alongside open-source tools. This approach serves the purpose of offering a blueprint that demonstrates how the same architecture can be constructed both within the AWS ecosystem and alternatively, leveraging open-source solutions without incurring additional costs. This comparative analysis allows for a comprehensive understanding of the flexibility and cost-efficiency available in deploying similar architectures.
 
@@ -151,7 +151,7 @@ In this document, I will elucidate the architectural design utilizing AWS servic
 
 ## <a name="03">AWS Pricing Calculator</a>
 
-In the context of preparing my solution to efficiently handle 20,000 to 30,000 users per second, I've harnessed the capabilities of the AWS Pricing Calculator. This valuable tool allowed me to perform an in-depth cost analysis for the intended services, resulting in a comprehensive cost breakdown that reveals the projected expenses linked to my AWS deployment. This calculation delivers indispensable insights for the purposes of budgeting and financial strategizing in my project. It's important to note that this process highlights the potential for further cost optimization to enhance resource utilization.
+In the context of preparing my solution to efficiently handle 15,000 users per second, I've harnessed the capabilities of the AWS Pricing Calculator. This valuable tool allowed me to perform an in-depth cost analysis for the intended services, resulting in a comprehensive cost breakdown that reveals the projected expenses linked to my AWS deployment. This calculation delivers indispensable insights for the purposes of budgeting and financial strategizing in my project. It's important to note that this process highlights the potential for further cost optimization to enhance resource utilization.
 
 <br>
 <img src= "https://github.com/Shadikul-Islam/DevOps-Assessment/blob/master/Images/1.png" alt="Architectural Image"> <br>
