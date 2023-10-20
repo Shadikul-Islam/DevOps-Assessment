@@ -2,16 +2,18 @@
 
 | **SL** | **Topic** |
 | --- | --- |
-| 01 | [Ecommerce Solution Architecture](#01) |
-| 02 | [AWS Pricing Calculator](#02) |
+| 01 | [Introduction](#01) |
+| 02 | [Ecommerce Solution Architecture](#02) |
+| 03 | [AWS Pricing Calculator](#03) |
+| 04 | [Conclusion](#04) |
 
-## Introduction
+## <a name="01">Introduction</a>
 
 In today's fast-paced e-commerce world, the need for efficient and scalable solutions is paramount. This will focus on designing an e-commerce architecture using Amazon Web Services (AWS) to replace an outdated system. The goal is to improve efficiency, performance, and customer satisfaction. We'll also estimate the costs of running this architecture to accommodate traffic of 20,000 to 30,000 requests per second. By leveraging AWS services, we aim to create a scalable, secure, and cost-effective solution that aligns with the demands of modern e-commerce. This architecture provides a practical understanding of cloud architecture and cost estimation in the context of real-world business challenges.
 
 In this document, I will elucidate the architectural design utilizing AWS services alongside open-source tools. This approach serves the purpose of offering a blueprint that demonstrates how the same architecture can be constructed both within the AWS ecosystem and alternatively, leveraging open-source solutions without incurring additional costs. This comparative analysis allows for a comprehensive understanding of the flexibility and cost-efficiency available in deploying similar architectures.
 
-## <a name="01">Ecommerce Solution Architecture</a>
+## <a name="02">Ecommerce Solution Architecture</a>
 
 ### Web Application
 
@@ -147,14 +149,14 @@ In this document, I will elucidate the architectural design utilizing AWS servic
 <img src= "https://github.com/Shadikul-Islam/DevOps-Assessment/blob/master/Images/3.png" alt="Architectural Image"> <br><br>
 
 
-## <a name="02">AWS Pricing Calculator</a>
+## <a name="03">AWS Pricing Calculator</a>
 
-I have harnessed the power of the AWS Pricing Calculator to conduct an exhaustive cost analysis for the services I plan to employ. This comprehensive tool has allowed me to enter pertinent data and generate a thorough cost breakdown, revealing the projected expenses linked to my AWS deployment. This calculation delivers invaluable insights crucial for budgeting and financial strategizing in my project. Understanding the pricing model is a pivotal step in assuring the judicious and cost-efficient utilization of AWS resources.
+In this endeavor, my solution is engineered to seamlessly handle 20,000 to 30,000 users per second. With this target in mind, I have harnessed the power of the AWS Pricing Calculator to conduct an exhaustive cost analysis for the services I plan to employ. This comprehensive tool has allowed me to enter pertinent data and generate a thorough cost breakdown, revealing the projected expenses linked to my AWS deployment. This calculation delivers invaluable insights crucial for budgeting and financial strategizing in my project.
 
 <br>
 <img src= "https://github.com/Shadikul-Islam/DevOps-Assessment/blob/master/Images/1.png" alt="Architectural Image"> <br>
 <img src= "https://github.com/Shadikul-Islam/DevOps-Assessment/blob/master/Images/2.png" alt="Architectural Image"> <br><br>
 
-## Conclusion
+## <a name="04">Conclusion</a>
 
 In summary, the focus has been on designing an e-commerce architecture, emphasizing scalability, security, and cost-efficiency. The exploration of AWS services and open-source tools highlights the flexibility in architecture choices. The use of the AWS Pricing Calculator provides valuable insights for budgeting and financial planning, underlining the importance of aligning technology solutions with real-world business needs to enhance efficiency, performance, and customer satisfaction in the e-commerce sector.
