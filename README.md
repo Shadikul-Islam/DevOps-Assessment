@@ -151,7 +151,7 @@ In this document, I will elucidate the architectural design utilizing AWS servic
 
 ## <a name="03">AWS Pricing Calculator</a>
 
-In this endeavor, my solution is engineered to seamlessly handle 20,000 to 30,000 users per second. With this target in mind, I have harnessed the power of the AWS Pricing Calculator to conduct an exhaustive cost analysis for the services I plan to employ. This comprehensive tool has allowed me to enter pertinent data and generate a thorough cost breakdown, revealing the projected expenses linked to my AWS deployment. This calculation delivers invaluable insights crucial for budgeting and financial strategizing in my project.
+In the context of preparing my solution to efficiently handle 20,000 to 30,000 users per second, I've harnessed the capabilities of the AWS Pricing Calculator. This valuable tool allowed me to perform an in-depth cost analysis for the intended services, resulting in a comprehensive cost breakdown that reveals the projected expenses linked to my AWS deployment. This calculation delivers indispensable insights for the purposes of budgeting and financial strategizing in my project. It's important to note that this process highlights the potential for further cost optimization to enhance resource utilization.
 
 <br>
 <img src= "https://github.com/Shadikul-Islam/DevOps-Assessment/blob/master/Images/1.png" alt="Architectural Image"> <br>
